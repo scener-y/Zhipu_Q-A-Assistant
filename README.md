@@ -10,11 +10,17 @@
 
       ├── knowledge_db:待向量化的知识库
       ├── vector_db:向量化的知识库
+      
 ├── streamlit_app.py：问答助手web的实现
+
 ├── requirements.txt：官方环境下的安装依赖
+
 ├── vectorstores_creat.py：向量库创建
+
 ├── zhipuai_embedding.py：智谱向量化实现
+
 ├── zhipuai_llm.py：智谱模型接口实现
+
 └── .env：环境配置
 
 ## 项目运行
