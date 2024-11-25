@@ -6,7 +6,7 @@
 
 **目录结构说明：**
 
-├── data_base：所使用的知识库源文件
+├── data_base：所使用的知识库源文件/n\n
       ├── knowledge_db:待向量化的知识库
       ├── vector_db:向量化的知识库
 ├── streamlit_app.py：问答助手web的实现
